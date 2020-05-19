@@ -1,7 +1,4 @@
-# Dominoes
-
-Hope you guys like
-It was very fun to do! : )
+# Dominoes Programming Exercise
 
 Requirements: 
 * PHP 7.1
